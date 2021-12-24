@@ -1,5 +1,10 @@
 # PrivBayes - Private Data Release via Bayesian Networks
 
+
+
+[![Code Archive](https://zenodo.org/badge/DOI/10.5281/zenodo.5803438.svg)](https://doi.org/10.5281/zenodo.5803438)[![Article](https://zenodo.org/badge/DOI/10.29012/jpc.776.svg)](https://doi.org/10.29012/jpc.776)
+
+
 Author: jzhang027 
 
 Cloned from [https://sourceforge.net/projects/privbayes/](https://sourceforge.net/projects/privbayes/) on 2021-12-08, last modifications on Sourceforge as of 2017-02-18.
