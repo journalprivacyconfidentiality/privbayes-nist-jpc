@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Code for: PrivBayes - Private Data Release via
+  Bayesian Networks
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Jun
+    family-names: Zhao
+    email: junzhao@ntu.edu.sg
+    affiliation: Nanyang Technological University of Singapore
+    orcid: 'https://orcid.org/0000-0002-3004-7091'
+  - family-names: Zhang
+    email: d-zhang@comp.nus.edu.sg
+    affiliation: National University of Singapore
+    orcid: 'https://orcid.org/0000-0003-0327-2290'
+    given-names: Dongping
+repository-code: >-
+  https://github.com/journalprivacyconfidentiality/privbayes-nist-jpc
+repository: 'https://sourceforge.net/projects/privbayes/'
+abstract: >-
+  Cloned from
+  https://sourceforge.net/projects/privbayes/ on
+  2021-12-08, last modifications on Sourceforge as of
+  2017-02-18.
+date-released: 2021-12-24
+url: "https://github.com/journalprivacyconfidentiality/privbayes-nist-jpc"
+preferred-citation:
+  authors:
+    - given-names: Ergute 
+      family-names: Bao
+    - given-names: Xiaokui 
+      family-names: Xiao
+    - given-names: Jun
+      family-names: Zhao
+      email: junzhao@ntu.edu.sg
+      affiliation: Nanyang Technological University of Singapore
+      orcid: 'https://orcid.org/0000-0002-3004-7091'
+    - family-names: Zhang
+      email: d-zhang@comp.nus.edu.sg
+      affiliation: National University of Singapore
+      orcid: 'https://orcid.org/0000-0003-0327-2290'
+      given-names: Dongping
+    - given-names: Bolin 
+      family-names: Ding 
+  title: Synthetic Data Generation with Differential Privacy via Bayesian Networks 
+  type: article
+  year: 2021
+  doi: https://doi.org/10.29012/jpc.776
+  journal: "Journal of Privacy and Confidentiality"
+  volume: 11
+  issue: 3
